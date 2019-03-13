@@ -9,15 +9,15 @@ The occurrence count of the largest number is 4
 
 
 2. Write a program using nested loops that displays the following pattern:
-                 1
-               2 1
-             3 2 1
-           4 3 2 1
-         5 4 3 2 1
-       6 5 4 3 2 1
-     7 6 5 4 3 2 1
-   8 7 6 5 4 3 2 1
- 9 8 7 6 5 4 3 2 1
+                1
+              2 1
+            3 2 1
+          4 3 2 1
+        5 4 3 2 1
+      6 5 4 3 2 1
+    7 6 5 4 3 2 1
+  8 7 6 5 4 3 2 1
+9 8 7 6 5 4 3 2 1
 
 
 3. (Reverse a string) Write a program that prompts the user to enter a string and displays the string in reverse order. 
